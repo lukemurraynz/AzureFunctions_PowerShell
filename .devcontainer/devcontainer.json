@@ -26,7 +26,8 @@
       },
       "extensions": [
         "ms-azuretools.vscode-azurefunctions",
-        "ms-vscode.powershell"
+        "ms-vscode.powershell",
+        "tanhakabir.rest-book"
       ]
     }
   }
