@@ -18,5 +18,9 @@
   },
   "managedDependency": {
     "enabled": true
+  },
+  "concurrency": {
+    "dynamicConcurrencyEnabled": true,
+    "snapshotPersistenceEnabled": true
   }
 }

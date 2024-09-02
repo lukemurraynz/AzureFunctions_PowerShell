@@ -15,6 +15,16 @@ After the function has started, you should see:
 
 * Your Functions 4.0 app is up and running navigating to the open 7071 port.
 
+## Queue demo
+
+```
+{
+    "StorageAccountName": "sds",
+    "ResourceGroupName": "asdasd"
+}
+```
+
 ## Notes
 
 * [DefaultAzureCredential](https://azuresdkdocs.blob.core.windows.net/$web/dotnet/Azure.Identity/1.4.1/index.html)
+* [Azure Queue storage trigger for Azure Functions]https://learn.microsoft.com/azure/azure-functions/functions-bindings-storage-queue-trigger?tabs=python-v2%2Cisolated-process%2Cnodejs-v4%2Cextensionv5&pivots=programming-language-powershell&WT.mc_id=AZ-MVP-5004796)
