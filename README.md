@@ -1,5 +1,5 @@
 # AzureFunctions_PowerShell
-Azure PowerShell Azure Functions
+Azure PowerShell Azure Functions, for Youtube video: [Azure Functions & PowerShell](https://youtu.be/ux9rjrIV8Bg).
 
 ## Development Container for Azure Functions (PowerShell)
 
